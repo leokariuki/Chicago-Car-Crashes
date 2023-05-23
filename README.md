@@ -31,4 +31,5 @@ Evaluating Policy Interventions: If the stakeholders implement new policies or i
 Situations where the model predictions would not be useful:
 
 Real-Time Accident Prediction: The model's predictions are based on historical data and existing variables. It may not be suitable for real-time accident prediction or immediate response scenarios where data on certain variables may not be available or rapidly changing. For real-time accident prediction, stakeholders would require a different approach, such as real-time sensor data, traffic cameras, or predictive models specifically designed for immediate responses.
+
 Individual Driver Behavior: The model focuses on broader patterns and factors contributing to accidents at a population level. It may not capture individual driver behavior or specific instances of reckless driving, distracted driving, or other driver-related factors. Stakeholders should consider other approaches, such as driver education programs, traffic law enforcement, or telematics-based solutions, to address individual driver behavior.
