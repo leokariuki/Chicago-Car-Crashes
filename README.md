@@ -11,8 +11,10 @@ The dataset provides comprehensive information about car crashes in Chicago, inc
 
 # Modeling
 A Logistic Regression model was built as the baseline model. The logistic regression model yielded low accuracy and F1 score of 40.4% and 27.3% respectively, suggesting that the model's performance in predicting the primary contributory cause of car accidents is not satisfactory. This indicates that the current model may not be capturing the underlying patterns and relationships effectively.
+
 Alternative models were therefore be built to improve the performance.
 The second model was a Random Forest Classifier that slighltly increased the performance of the model to an accuracy of 45.7% and F1 score of 34.9%.
+
 The final model was a classification model using Extreme Gradient Boosting with tuned hyperparameters. This model yielded better performance overally as shown:
 Accuracy: 0.45832467262523385
 F1 Score: 0.3630366615661475
