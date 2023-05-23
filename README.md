@@ -21,6 +21,7 @@ Recall: 0.45832467262523385
 
 # Conclusion and Recommendations
 Situations where predictions made by the model would be useful:
+
 Investigating Contributing Factors: The model predictions can assist stakeholders in understanding the contributing factors behind accidents. By examining the importance of various variables in the prediction, stakeholders can identify the primary causes or conditions leading to accidents. This knowledge can be used to develop specific strategies, such as improving road infrastructure, enhancing traffic control devices, or implementing educational campaigns to address those factors effectively.
 Evaluating Policy Interventions: If the stakeholders implement new policies or interventions to improve road safety, the model can be used to assess the effectiveness of those measures. By comparing the predicted outcomes before and after implementing the changes, stakeholders can evaluate the impact of their interventions and make data-driven decisions for further improvements.
 Situations where the model predictions would not be useful:
